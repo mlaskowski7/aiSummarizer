@@ -12,17 +12,17 @@ A React.js web application that uses OpenAI GPT-4 to summarize website content, 
 
 ## Technologies Used
 
-- **React.js:**
+- **React.js**
 
-- **OpenAI GPT-4:**
+- **OpenAI GPT-4**
 
-- **RapidAPI:**
+- **RapidAPI**
 
-- **Tailwind CSS:**
+- **Tailwind CSS**
 
-- **Redux Toolkit:**
+- **Redux Toolkit**
 
-- **Vite:**.
+- **Vite**
 
 
 ## Getting Started
