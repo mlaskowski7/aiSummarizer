@@ -12,17 +12,17 @@ A React.js web application that uses OpenAI GPT-4 to summarize website content, 
 
 ## Technologies Used
 
-- **React.js:** A JavaScript library for building user interfaces, providing a declarative and efficient way to design UI components.
+- **React.js:**
 
-- **OpenAI GPT-4:** An advanced natural language processing model for text generation and summarization tasks.
+- **OpenAI GPT-4:**
 
-- **RapidAPI:** A platform that allows developers to find, connect, and manage APIs. Used for fetching data to power the summarization process.
+- **RapidAPI:**
 
-- **Tailwind CSS:** A utility-first CSS framework that enables rapid and efficient styling by applying small utility classes directly in the HTML.
+- **Tailwind CSS:**
 
-- **Redux Toolkit:** A set of tools and guidelines for managing state and data flow in React applications, ensuring a predictable and scalable state management solution.
+- **Redux Toolkit:**
 
-- **Vite:** A fast, modern build tool for web development. Used to build and bundle the React application for optimal performance.
+- **Vite:**.
 
 
 ## Getting Started
