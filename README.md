@@ -5,6 +5,7 @@ A React.js web application that uses OpenAI GPT-4 to summarize website content, 
 
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
 
 
 
